@@ -21,8 +21,5 @@ Follow these steps to run the Chat Application on your local machine:
 3. Run the application: `java ChatApp`
 4. Follow the on-screen instructions to connect and start chatting.
 
-## Screenshots
-
-![Screenshot (2033)](https://github.com/thdonadkar/Chatting-Application/assets/72977141/cd65c5d7-df7f-4057-9ad0-a6195a5cef37)
 
 
