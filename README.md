@@ -25,14 +25,4 @@ Follow these steps to run the Chat Application on your local machine:
 
 ![Screenshot (2033)](https://github.com/thdonadkar/Chatting-Application/assets/72977141/cd65c5d7-df7f-4057-9ad0-a6195a5cef37)
 
-## Contributing
 
-Contributions are welcome! If you'd like to add new features, improve the UI, or fix issues, follow the steps outlined in the "Contributing" section of the README.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact me at thdonadkar413@email.com.
